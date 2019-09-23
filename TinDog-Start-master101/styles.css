@@ -65,7 +65,7 @@ p{
   margin:5% 3% 5% 0;
 }
 
-/* TITILE IMAGE */
+                            /* TITILE IMAGE */
 .title-image{
   width:60%;
   transform: rotate(25deg);
@@ -141,7 +141,7 @@ p{
 }
 
 
-                            /* CALL TO ACTION (CTA SECTION) */
+                    /* CALL TO ACTION (CTA SECTION) */
 
 #cta{
 background-color: #ff4c68;
